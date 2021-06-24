@@ -1,0 +1,17 @@
+{
+  "name": "Chest code",
+  "short_name": "Chest code",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+      {
+        "src": "/images/cadena.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
+        }
+  ]
+}
